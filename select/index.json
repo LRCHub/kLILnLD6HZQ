@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "私のHERO",
+  "base_artist": "HY",
+  "createdAt": "2025-12-02T01:23:20.512092Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "私のHERO",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/01_私のHERO_HY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "私のHERO",
+      "artist": "HY",
+      "has_synced": false,
+      "path": "select/pl_01_私のHERO_HY.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "私のHERO",
+      "artist": "HY",
+      "has_synced": false,
+      "path": "select/pl_02_私のHERO_HY.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "私のHERO",
+      "artist": "HY",
+      "has_synced": false,
+      "path": "select/pl_03_私のHERO_HY.txt"
+    }
+  ]
+}
